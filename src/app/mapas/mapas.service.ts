@@ -14,3 +14,4 @@ export class MapasService {
   getPuntos(): Observable<Point[]>{
     return this.http.get<Point[]>(this._url);
 }
+}

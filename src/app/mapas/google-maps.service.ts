@@ -80,7 +80,7 @@ iniciar(element: HTMLElement): void{
     //this.resetMap(puntos);
     this.resetMap();
     for (let p of puntos) {
-      const location = new google.maps.LatLng(p.latitud, p.longitud);
+      const location = new google.maps.LatLng(p.latitude, p.longitude);
       const marker = new google.maps.Marker({
         position: location,
         title: 'punto nuevo',

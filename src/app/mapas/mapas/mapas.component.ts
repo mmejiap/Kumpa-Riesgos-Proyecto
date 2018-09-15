@@ -52,7 +52,7 @@ export class MapasComponent implements OnInit {
 			},
 			(err: HttpErrorResponse) => {
 				console.log(err.message);
-			},
+			}
 			
 		);
 		for(let location in this.lista_puntos){
