@@ -1,0 +1,2876 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-80.68981600000001, -5.167857000000026]
+    },
+    "properties": {
+    "DPTO": "Piura",
+    "PROVINCIA": "Piura",
+    "DISTRITO": "Veintiseis de Octubre",
+    "COD_LDN": "073",
+    "TEL_1": "284600",
+    "ANEXO": "4270",
+    "TEL_2": "0",
+    "CELULAR1": "971185759",
+    "CELULAR2": "956688876",
+    "RESPONSABL": "Crl EP (R) Eduardo Arbulu Gonzales",
+    "EMAIL": "earbulu@regionpiura.gob.pe",
+    "DIRECCION": "Av. San Ramon s/n Urb. San Eduardo El ChipeE",
+    "X": -80.689816,
+    "Y": -5.167857,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-80.43200000000002, -3.553999999999974]
+    },
+    "properties": {
+    "DPTO": "Tumbes",
+    "PROVINCIA": "Tumbes",
+    "DISTRITO": "Tumbes",
+    "COD_LDN": "072",
+    "TEL_1": "503151",
+    "ANEXO": "0",
+    "TEL_2": "524390",
+    "CELULAR1": "951972639",
+    "CELULAR2": "951972639",
+    "RESPONSABL": "Abog Melissa Tavara Monzon",
+    "EMAIL": "coer_tumbes@hotmail.com",
+    "DIRECCION": "Carretera Panamericana Norte km. 4.5, Av La Marina No 200",
+    "X": -80.432,
+    "Y": -3.554,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-79.816815969, -6.773192499999993]
+    },
+    "properties": {
+    "DPTO": "Lambayeque",
+    "PROVINCIA": "Chiclayo",
+    "DISTRITO": "Chiclayo",
+    "COD_LDN": "074",
+    "TEL_1": "612707",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "975385313",
+    "CELULAR2": " ",
+    "RESPONSABL": "Ing. Manuel Arturo Yerren Callacna",
+    "EMAIL": "yerrenc@hotmail.com",
+    "DIRECCION": "Carretera Chiclayo a Pomalca Km 2.5; Ciudad: Chiclayo",
+    "X": -79.81681597,
+    "Y": -6.7731925,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-79.03981800000003, -8.098563000000013]
+    },
+    "properties": {
+    "DPTO": "La Libertad",
+    "PROVINCIA": "Trujillo",
+    "DISTRITO": "Trujillo",
+    "COD_LDN": "044",
+    "TEL_1": "604000",
+    "ANEXO": "2299",
+    "TEL_2": "604085",
+    "CELULAR1": "943032190",
+    "CELULAR2": "945301226",
+    "RESPONSABL": "Ing. Cesar FLORES CORBERA",
+    "EMAIL": "cflorez@regionlalibertad.gob.pe",
+    "DIRECCION": "Los brillantes 650 Urb. Santa Ines - Trujillo",
+    "X": -79.039818,
+    "Y": -8.098563,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-78.59421300000003, -9.074401000000023]
+    },
+    "properties": {
+    "DPTO": "Ancash",
+    "PROVINCIA": "Del Santa",
+    "DISTRITO": "Chimbote",
+    "COD_LDN": "043",
+    "TEL_1": "342861",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "#943613609",
+    "CELULAR2": "#943679879",
+    "RESPONSABL": "Guillermo Abrill",
+    "EMAIL": "guillermoabrill@hotmail.com.",
+    "DIRECCION": "Jr. Enrique Palacios No 343",
+    "X": -78.594213,
+    "Y": -9.074401,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-78.50948515300001, -7.146965658999989]
+    },
+    "properties": {
+    "DPTO": "Cajamarca",
+    "PROVINCIA": "Cajamarca",
+    "DISTRITO": "Cajamarca",
+    "COD_LDN": "076",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "599000",
+    "CELULAR1": "976335817",
+    "CELULAR2": "976820392",
+    "RESPONSABL": "Ing. Walter Torres Aguirre",
+    "EMAIL": "coercajamarca@rgmail.com",
+    "DIRECCION": "Jr. Santa Teresa de Journet No 351",
+    "X": -78.50948515,
+    "Y": -7.14696566,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-78.151028, -10.06868700000001]
+    },
+    "properties": {
+    "DPTO": "Ancash",
+    "PROVINCIA": "Huarmey",
+    "DISTRITO": "Huarmey",
+    "COD_LDN": "043",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "999031020",
+    "CELULAR2": "#943026937",
+    "RESPONSABL": "Roberto Rojas Flores",
+    "EMAIL": "cr_rojas@hotmail.com",
+    "DIRECCION": "Frente a Plaza de armas",
+    "X": -78.151028,
+    "Y": -10.068687,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.87305723700001, -6.235235019000015]
+    },
+    "properties": {
+    "DPTO": "Amazonas",
+    "PROVINCIA": "Chachapoyas",
+    "DISTRITO": "Chachapoyas",
+    "COD_LDN": "041",
+    "TEL_1": "478131",
+    "ANEXO": "260",
+    "TEL_2": "477048",
+    "CELULAR1": "952919883",
+    "CELULAR2": " ",
+    "RESPONSABL": "Prof. Ronsendo Mori Zavaleta",
+    "EMAIL": "coer@regionamazonas.gob.pe",
+    "DIRECCION": "Jr. Ortiz Arrieta 1250 - Chachapoyas - Chachapoyas",
+    "X": -77.87305724,
+    "Y": -6.23523502,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.87294378600001, -6.229388804999985]
+    },
+    "properties": {
+    "DPTO": "Amazonas",
+    "PROVINCIA": "Chachapoyas",
+    "DISTRITO": "Chachapoyas",
+    "COD_LDN": "041",
+    "TEL_1": "478795",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "984721466",
+    "CELULAR2": " ",
+    "RESPONSABL": "Ing. Carmen Lorena Olazabal La Torre",
+    "EMAIL": "lorenaolt@hotmail.com",
+    "DIRECCION": "Jr. Libertad 744 - Chachapoyas - Chachapoyas",
+    "X": -77.87294379,
+    "Y": -6.22938881,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.61000000000001, -11.12000000000001]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Huara",
+    "DISTRITO": "Huacho",
+    "COD_LDN": "01",
+    "TEL_1": "2356144",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "985944350",
+    "CELULAR2": "0",
+    "RESPONSABL": "Ing Oscar Romero Leon",
+    "EMAIL": "osromero1962@gmail.com",
+    "DIRECCION": "Av. La Paz No 340, distrito de Huacho, Provincia de Huaura",
+    "X": -77.61,
+    "Y": -11.12,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.53655300000003, -9.498318999999981]
+    },
+    "properties": {
+    "DPTO": "Ancash",
+    "PROVINCIA": "Huaraz",
+    "DISTRITO": "Independencia",
+    "COD_LDN": "043",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "#990458909",
+    "CELULAR2": "#944994966",
+    "RESPONSABL": "Luordes Gonzaales Aguierre",
+    "EMAIL": "luordesgonzales9@hotmail.com",
+    "DIRECCION": "Av Independencia S/N  Vichay Bajo",
+    "X": -77.536553,
+    "Y": -9.498319,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.52974999999998, -9.53063800000001]
+    },
+    "properties": {
+    "DPTO": "Ancash",
+    "PROVINCIA": "Huaraz",
+    "DISTRITO": "Huaraz",
+    "COD_LDN": "043",
+    "TEL_1": "230190",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "#969105050",
+    "CELULAR2": "#941887600",
+    "RESPONSABL": "David Cesar  Paredes",
+    "EMAIL": "paredesdavid01@hotmail.com",
+    "DIRECCION": "Esquina Av. Luzuriaga/Jr. 28 de Julio",
+    "X": -77.52975,
+    "Y": -9.530638,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.524539, -9.526605000000018]
+    },
+    "properties": {
+    "DPTO": "Ancash",
+    "PROVINCIA": "Huaraz",
+    "DISTRITO": "Huaraz",
+    "COD_LDN": "043",
+    "TEL_1": "426099",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "#943867656",
+    "CELULAR2": "#943455270",
+    "RESPONSABL": "Carlos Paredes Aranda",
+    "EMAIL": "cparedes.aranda@gmail.com",
+    "DIRECCION": "Av Raymondi S/N -",
+    "X": -77.524539,
+    "Y": -9.526605,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.17779999999999, -11.77530000000002]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Ancon",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "991671766",
+    "CELULAR2": " ",
+    "RESPONSABL": "Zegarra Casas Moises",
+    "EMAIL": "moiseszs@gmail.com",
+    "DIRECCION": "Av. Malecon Ferreyros s/n cuadra 6",
+    "X": -77.1778,
+    "Y": -11.7753,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.16792800000002, -12.07304399999998]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Callao",
+    "DISTRITO": "La Punta",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "981155733",
+    "CELULAR2": " ",
+    "RESPONSABL": "Llallihuaman Figueroa Moises Tito",
+    "EMAIL": "mollafi@hotmail.com",
+    "DIRECCION": "Jr. Medina cuadra 4 ( interior Escuela Naval 4ta. cubierta)",
+    "X": -77.167928,
+    "Y": -12.073044,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.1570959, -11.78714600000001]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Santa Rosa",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "930358734",
+    "CELULAR2": " ",
+    "RESPONSABL": "Ramirez Minaya Jesica",
+    "EMAIL": "jramirezminaya@hotmail.com",
+    "DIRECCION": "Av. Alejandro Bertello km. 42.5 ( Frente Cuartel EP)",
+    "X": -77.1570959,
+    "Y": -11.787146,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.0553688, -12.10690849999998]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "San Isidro",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "997017799",
+    "CELULAR2": " ",
+    "RESPONSABL": "Estrella fernandez Rene",
+    "EMAIL": "rene.estrella@munisanisidro.gob.pe",
+    "DIRECCION": "Calle Godofredo Garcia 375 (Altura cuadra 17 de la av. Ejercito)",
+    "X": -77.0553688,
+    "Y": -12.1069085,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.05471, -11.99723]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Independencia",
+    "COD_LDN": "01",
+    "TEL_1": "7124114",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "951480030",
+    "CELULAR2": " ",
+    "RESPONSABL": "Dayar Vicente Marchan",
+    "EMAIL": " ",
+    "DIRECCION": "km. 4.5  Tupac amaru (Palacio Municipal)",
+    "X": -77.05471,
+    "Y": -11.99723,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.05173231100002, -12.11021947400002]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Miraflores",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "7177",
+    "TEL_2": "0",
+    "CELULAR1": "942113004",
+    "CELULAR2": " ",
+    "RESPONSABL": "Zara Santillan Tafur",
+    "EMAIL": "zara.santillan@miraflores.gob.pe",
+    "DIRECCION": "Av. Ejercito cdra 13",
+    "X": -77.05173231,
+    "Y": -12.11021947,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.04919999999999, -12.08949999999999]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "San Isidro",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "0",
+    "CELULAR2": "0",
+    "RESPONSABL": "Dr. Luis Melchor Loro Chero",
+    "EMAIL": "mloro@minsa.gob.pe",
+    "DIRECCION": "Calle Guillermo Marconi Nro. 317 San Isidro",
+    "X": -77.0492,
+    "Y": -12.0895,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Salud",
+    "NIVEL_GOBI": "Sectorial",
+    "NIVEL_COE": "COES"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.04559999999998, -12.09379999999999]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "San Isidro",
+    "COD_LDN": " ",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": " ",
+    "CELULAR2": " ",
+    "RESPONSABL": " ",
+    "EMAIL": " ",
+    "DIRECCION": " ",
+    "X": -77.0456,
+    "Y": -12.0938,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Ambiente",
+    "NIVEL_GOBI": "Sectorial",
+    "NIVEL_COE": "COES"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.042013, -12.08131900000001]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Jesus Maria",
+    "COD_LDN": " ",
+    "TEL_1": "6141212",
+    "ANEXO": "3419",
+    "TEL_2": "0",
+    "CELULAR1": "940396334",
+    "CELULAR2": "940379062",
+    "RESPONSABL": "Ivan Llontop Castillo",
+    "EMAIL": "illontop@munijesusmaria.gob.pe",
+    "DIRECCION": "Capac Yupanqui 1520",
+    "X": -77.042013,
+    "Y": -12.081319,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.04059999999998, -12.07150000000002]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Jesus Maria",
+    "COD_LDN": "01",
+    "TEL_1": "6306000",
+    "ANEXO": "1201",
+    "TEL_2": "0",
+    "CELULAR1": "0",
+    "CELULAR2": "0",
+    "RESPONSABL": "Jose Ivan Torres Verastegui",
+    "EMAIL": "jtorres@trabajo.gob.pe",
+    "DIRECCION": "Av. Salaverry 655  Jesus Maria",
+    "X": -77.0406,
+    "Y": -12.0715,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Trabajo y Promocion Social",
+    "NIVEL_GOBI": "Sectorial",
+    "NIVEL_COE": "COES"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.04039999999998, -12.0652]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Jesus Maria",
+    "COD_LDN": " ",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": " ",
+    "CELULAR2": " ",
+    "RESPONSABL": " ",
+    "EMAIL": " ",
+    "DIRECCION": " ",
+    "X": -77.0404,
+    "Y": -12.0652,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Defensa",
+    "NIVEL_GOBI": "Sectorial",
+    "NIVEL_COE": "COES"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.0394, -12.06349999999998]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Lima",
+    "COD_LDN": " ",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": " ",
+    "CELULAR2": " ",
+    "RESPONSABL": " ",
+    "EMAIL": " ",
+    "DIRECCION": " ",
+    "X": -77.0394,
+    "Y": -12.0635,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Agricultura y Riego",
+    "NIVEL_GOBI": "Sectorial",
+    "NIVEL_COE": "COES"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.03644800000001, -12.12330839999999]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "San Borja",
+    "COD_LDN": "01",
+    "TEL_1": "6125555",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "991971399",
+    "CELULAR2": "993164632",
+    "RESPONSABL": "Zeballos Arbulu Martin",
+    "EMAIL": "martin.zeballos@msb.gob.pe",
+    "DIRECCION": "Calle Madrid 200",
+    "X": -77.036448,
+    "Y": -12.1233084,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.03460000000001, -12.04840000000002]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Lima",
+    "COD_LDN": " ",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": " ",
+    "CELULAR2": " ",
+    "RESPONSABL": " ",
+    "EMAIL": " ",
+    "DIRECCION": " ",
+    "X": -77.0346,
+    "Y": -12.0484,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Mujer Poblaciones Vulnerables",
+    "NIVEL_GOBI": "Sectorial",
+    "NIVEL_COE": "COES"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.0324, -12.04919999999999]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Lima",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "3520",
+    "TEL_2": "0",
+    "CELULAR1": "0",
+    "CELULAR2": "0",
+    "RESPONSABL": "Walter Jose Tapia Zanabria",
+    "EMAIL": "wtapia@vivienda.gob.pe",
+    "DIRECCION": "Paseo de la Republica 3361",
+    "X": -77.0324,
+    "Y": -12.0492,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Vivienda, Construccion y Saneamiento",
+    "NIVEL_GOBI": "Sectorial",
+    "NIVEL_COE": "COES"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.03199999999998, -12.08300000000003]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Lince",
+    "COD_LDN": "01",
+    "TEL_1": "6191818",
+    "ANEXO": "605",
+    "TEL_2": "0",
+    "CELULAR1": "949762980",
+    "CELULAR2": " ",
+    "RESPONSABL": "Meza Barriga Martin",
+    "EMAIL": "odontosalud1906@hotmail.com",
+    "DIRECCION": "Av. Pardo de Zela 480",
+    "X": -77.032,
+    "Y": -12.083,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.03019999999998, -12.0487]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Lima",
+    "COD_LDN": " ",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": " ",
+    "CELULAR2": " ",
+    "RESPONSABL": " ",
+    "EMAIL": " ",
+    "DIRECCION": " ",
+    "X": -77.0302,
+    "Y": -12.0487,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Relaciones Exteriores",
+    "NIVEL_GOBI": "Sectorial",
+    "NIVEL_COE": "COES"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.02940000000001, -12.04509999999999]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Lima",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "7113",
+    "TEL_2": "0",
+    "CELULAR1": "0",
+    "CELULAR2": "0",
+    "RESPONSABL": "Julio Miguel Pflucker Yepez",
+    "EMAIL": "jpflucker@pcm.gob.pe",
+    "DIRECCION": "Jr. Carabaya Cdra. 1 S/N - Lima",
+    "X": -77.0294,
+    "Y": -12.0451,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Presidencia del Consejo de Ministros",
+    "NIVEL_GOBI": "Sectorial",
+    "NIVEL_COE": "COES"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.02839999999998, -12.04640000000001]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Lima",
+    "COD_LDN": " ",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": " ",
+    "CELULAR2": " ",
+    "RESPONSABL": " ",
+    "EMAIL": " ",
+    "DIRECCION": " ",
+    "X": -77.0284,
+    "Y": -12.0464,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Economia y Finanzas",
+    "NIVEL_GOBI": "Sectorial",
+    "NIVEL_COE": "COES"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.0283, -12.10739999999998]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Miraflores",
+    "COD_LDN": " ",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": " ",
+    "CELULAR2": " ",
+    "RESPONSABL": " ",
+    "EMAIL": " ",
+    "DIRECCION": " ",
+    "X": -77.0283,
+    "Y": -12.1074,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Justicia y Derechos Humanos",
+    "NIVEL_GOBI": "Sectorial",
+    "NIVEL_COE": "COES"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.0283, -12.0514]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Lima",
+    "COD_LDN": " ",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": " ",
+    "CELULAR2": " ",
+    "RESPONSABL": " ",
+    "EMAIL": " ",
+    "DIRECCION": " ",
+    "X": -77.0283,
+    "Y": -12.0514,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Fiscal de la Nacion",
+    "NIVEL_GOBI": "Sectorial",
+    "NIVEL_COE": "COES"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.027424, -12.14527099999998]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Surquillo",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "995171993",
+    "CELULAR2": " ",
+    "RESPONSABL": "Quintero Rodriguez Daniel",
+    "EMAIL": " ",
+    "DIRECCION": "Av. Angamos este cuadra 18 ( Frente Open Plaza)",
+    "X": -77.027424,
+    "Y": -12.145271,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.02733899999998, -11.89004499999999]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Carabayllo",
+    "COD_LDN": "01",
+    "TEL_1": "2798463",
+    "ANEXO": "0",
+    "TEL_2": "7134257",
+    "CELULAR1": "980371078",
+    "CELULAR2": "994038938",
+    "RESPONSABL": "Ing. Jaime Coarite",
+    "EMAIL": "coe@municarabayllo.gob.pe",
+    "DIRECCION": "Av. Tupac Amaru 1733, Carabayllo ÔÇô Lima",
+    "X": -77.027339,
+    "Y": -11.890045,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.02707500000003, -12.04218900000001]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Rimac",
+    "COD_LDN": "01",
+    "TEL_1": "5404040",
+    "ANEXO": "211",
+    "TEL_2": "0",
+    "CELULAR1": "955514671",
+    "CELULAR2": " ",
+    "RESPONSABL": "Mogollon Rodriguez Jorge Eduardo",
+    "EMAIL": "mogollon1089@gmail.com",
+    "DIRECCION": "Av. Anton Sanchez s/n cuadra 3 de Alcazar",
+    "X": -77.027075,
+    "Y": -12.042189,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.02370000000002, -12.09480000000002]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "San Isidro",
+    "COD_LDN": " ",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": " ",
+    "CELULAR2": " ",
+    "RESPONSABL": " ",
+    "EMAIL": " ",
+    "DIRECCION": " ",
+    "X": -77.0237,
+    "Y": -12.0948,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Desarrollo e Inclusion Social",
+    "NIVEL_GOBI": "Sectorial",
+    "NIVEL_COE": "COES"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.02352000000002, -12.13817]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Barranco",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "978485958",
+    "CELULAR2": " ",
+    "RESPONSABL": "Valerio gutierrez Consuelo",
+    "EMAIL": "consuelovalgu@gmail.com",
+    "DIRECCION": "San Martin cuadra 14 s/n - Estadio Chipoco",
+    "X": -77.02352,
+    "Y": -12.13817,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.01952219999998, -12.06467020000002]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "La Victoria",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "991346354",
+    "CELULAR2": " ",
+    "RESPONSABL": "Perez Munoz Cesar",
+    "EMAIL": "jorgeapm2@hotmail.com",
+    "DIRECCION": "Av. La mar s/n cuadra 6 ( La Mar con Humbolt)",
+    "X": -77.0195222,
+    "Y": -12.0646702,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.01569999999998, -12.09800000000001]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "San Isidro",
+    "COD_LDN": " ",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": " ",
+    "CELULAR2": " ",
+    "RESPONSABL": " ",
+    "EMAIL": " ",
+    "DIRECCION": " ",
+    "X": -77.0157,
+    "Y": -12.098,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Interior",
+    "NIVEL_GOBI": "Sectorial",
+    "NIVEL_COE": "COES"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.01507199999998, -12.04019199999999]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Lima Metropolitana",
+    "COD_LDN": "01",
+    "TEL_1": "6321100",
+    "ANEXO": "1120",
+    "TEL_2": "0",
+    "CELULAR1": "996644360",
+    "CELULAR2": " ",
+    "RESPONSABL": "Augusto Franklin Stapefeld",
+    "EMAIL": " ",
+    "DIRECCION": " ",
+    "X": -77.015072,
+    "Y": -12.040192,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.0145, -12.0983]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "San Isidro",
+    "COD_LDN": " ",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": " ",
+    "CELULAR2": " ",
+    "RESPONSABL": " ",
+    "EMAIL": " ",
+    "DIRECCION": " ",
+    "X": -77.0145,
+    "Y": -12.0983,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Comercio Exterior y Turismo",
+    "NIVEL_GOBI": "Sectorial",
+    "NIVEL_COE": "COES"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.0145, -12.0983]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "San Isidro",
+    "COD_LDN": " ",
+    "TEL_1": " ",
+    "ANEXO": " ",
+    "TEL_2": " ",
+    "CELULAR1": " ",
+    "CELULAR2": " ",
+    "RESPONSABL": " ",
+    "EMAIL": " ",
+    "DIRECCION": " ",
+    "X": -77.0145,
+    "Y": -12.0983,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Produccion Industria y Pesqueria",
+    "NIVEL_GOBI": "Sectorial",
+    "NIVEL_COE": "COES"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.01020490000002, -12.02946600000001]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "San Juan De Lurigancho",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "994395611",
+    "CELULAR2": " ",
+    "RESPONSABL": "Davila Rodriguez Luis Antonio",
+    "EMAIL": " ",
+    "DIRECCION": "Jr. Los Amautas 100",
+    "X": -77.0102049,
+    "Y": -12.029466,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.0059, -12.09730000000002]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "San Borja",
+    "COD_LDN": " ",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": " ",
+    "CELULAR2": " ",
+    "RESPONSABL": " ",
+    "EMAIL": " ",
+    "DIRECCION": " ",
+    "X": -77.0059,
+    "Y": -12.0973,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Energía y Minas",
+    "NIVEL_GOBI": "Sectorial",
+    "NIVEL_COE": "COES"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.00510420000001, -12.14527099999998]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Santiago De Surco",
+    "COD_LDN": "01",
+    "TEL_1": "4115560",
+    "ANEXO": "1535",
+    "TEL_2": "0",
+    "CELULAR1": "945030641",
+    "CELULAR2": " ",
+    "RESPONSABL": "Vela chavez Cesar Enrique",
+    "EMAIL": "danquin1759@hotmail.com",
+    "DIRECCION": "Calle Loma de Los Suspiros s/n",
+    "X": -77.0051042,
+    "Y": -12.145271,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.00209999999998, -12.08659999999998]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "San Borja",
+    "COD_LDN": " ",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": " ",
+    "CELULAR2": " ",
+    "RESPONSABL": " ",
+    "EMAIL": " ",
+    "DIRECCION": " ",
+    "X": -77.0021,
+    "Y": -12.0866,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Cultura",
+    "NIVEL_GOBI": "Sectorial",
+    "NIVEL_COE": "COES"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.00060000000002, -12.08510000000001]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "San Borja",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "26750",
+    "TEL_2": "0",
+    "CELULAR1": "0",
+    "CELULAR2": "0",
+    "RESPONSABL": "Aurora Rubi Zegarra Huapaya",
+    "EMAIL": "azegarrah@minedu.gob.pe┬á",
+    "DIRECCION": "Calle Del Comercio 193, San Borja - Lima",
+    "X": -77.0006,
+    "Y": -12.0851,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Educacion",
+    "NIVEL_GOBI": "Sectorial",
+    "NIVEL_COE": "COES"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-76.99351200000001, -12.07574699999998]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "San Luis",
+    "COD_LDN": "01",
+    "TEL_1": "2501152",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "974876001",
+    "CELULAR2": " ",
+    "RESPONSABL": "Edgar Loayza Carrillo",
+    "EMAIL": "zapadorvolador@hotmail.com",
+    "DIRECCION": "Av . Del aire 1540",
+    "X": -76.993512,
+    "Y": -12.075747,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-76.96493900000002, -12.16313919999999]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "San Juan De Miraflores",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "985588040",
+    "CELULAR2": " ",
+    "RESPONSABL": "Angulo Legua Zabelia Denisse",
+    "EMAIL": "zabeliaangulo146@gmail.com",
+    "DIRECCION": "Av. Belisario Suarez 1032 (Clinica Santa Maria)",
+    "X": -76.964939,
+    "Y": -12.1631392,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-76.95567999999997, -12.03537999999998]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Santa Anita",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "949194820",
+    "CELULAR2": " ",
+    "RESPONSABL": "Mata Jaco Alvaro Renzo",
+    "EMAIL": "alvaromj67@hotmail.com",
+    "DIRECCION": "Av. Chancas de Andahuaylas con cruce Av. Huarochiri Zona 4",
+    "X": -76.95568,
+    "Y": -12.03538,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-76.95233300000001, -12.16338760000002]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Villa Maria Del Triunfo",
+    "COD_LDN": "01",
+    "TEL_1": "2345005",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "969392469",
+    "CELULAR2": " ",
+    "RESPONSABL": "Aldana Borjas Raul",
+    "EMAIL": "coevmt@gmail.com",
+    "DIRECCION": "Av. Salvador Allende cuadra 5 ( Palacio Municipal)",
+    "X": -76.952333,
+    "Y": -12.1633876,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-76.93576200000001, -12.19938400000001]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Villa El Salvador",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "982068421",
+    "CELULAR2": " ",
+    "RESPONSABL": "Siancas Ramos Daniel",
+    "EMAIL": " ",
+    "DIRECCION": "Parque Industrial Parcela 1- Calle Solidaridad",
+    "X": -76.935762,
+    "Y": -12.199384,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-76.91930000000002, -12.02623999999997]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Ate-Vitarte",
+    "COD_LDN": "01",
+    "TEL_1": "2044700",
+    "ANEXO": "1831",
+    "TEL_2": "0",
+    "CELULAR1": "946351050",
+    "CELULAR2": " ",
+    "RESPONSABL": "Honorio operedes Rodolfo Enrique",
+    "EMAIL": "rhonorio@muniate.gob.pe",
+    "DIRECCION": "Carretera Central Km. 7 (Centro Cultural Ate)",
+    "X": -76.9193,
+    "Y": -12.02624,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-76.91707200000002, -12.07853899999998]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "La Molina",
+    "COD_LDN": "01",
+    "TEL_1": "3134444",
+    "ANEXO": "259",
+    "TEL_2": "0",
+    "CELULAR1": "989296016",
+    "CELULAR2": " ",
+    "RESPONSABL": "Jorge Aguilar Garcia",
+    "EMAIL": "jaguilar@munimolina.gob.pe",
+    "DIRECCION": "Av. Ricardo Elias Aparicio 740",
+    "X": -76.917072,
+    "Y": -12.078539,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-76.90707520000001, -12.22858500000001]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Lurin",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "990279767",
+    "CELULAR2": " ",
+    "RESPONSABL": "Garcia Velasco Luis Pablo",
+    "EMAIL": "jpgarciav8@gmail.com",
+    "DIRECCION": "Jr. Victor Raul Haya de la Torre mz. B Lote 5-6 (Lurin Cercado)",
+    "X": -76.9070752,
+    "Y": -12.228585,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.05538000000001, -12.05970000000002]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Brena",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "955748051",
+    "CELULAR2": " ",
+    "RESPONSABL": "Manrique Corrales david",
+    "EMAIL": "danielmanrique14@gmail.com",
+    "DIRECCION": "Jr. Atalaya 164 altura del Colegio Melgar",
+    "X": -77.05538,
+    "Y": -12.0597,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-76.89093000000003, -12.04815000000002]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "El Agustino",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "995747411",
+    "CELULAR2": " ",
+    "RESPONSABL": "Ulloa Manosalva Luis",
+    "EMAIL": "fuego022010@hotmail.com",
+    "DIRECCION": "Av. Riva aguero y Jr. Ancash (Ovalo La Paz)",
+    "X": -76.89093,
+    "Y": -12.04815,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-76.86422700000003, -12.22976399999999]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Pachacamac",
+    "COD_LDN": "01",
+    "TEL_1": "2311385",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "989000337",
+    "CELULAR2": " ",
+    "RESPONSABL": "Reyna Roldan Gerardo",
+    "EMAIL": "reynaroldan1@hotmail.com",
+    "DIRECCION": "Av. Manuel del Valle s/n Al costado del (Mercado Jumbo)",
+    "X": -76.864227,
+    "Y": -12.229764,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-76.796831, -12.48146980000001]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Pucusana",
+    "COD_LDN": "01",
+    "TEL_1": "4309053",
+    "ANEXO": "209",
+    "TEL_2": "0",
+    "CELULAR1": "989481249",
+    "CELULAR2": " ",
+    "RESPONSABL": "Almonte Cornejo Mario Miguel",
+    "EMAIL": "mariomiguel17@hotmail.com",
+    "DIRECCION": "Av. Grau 309",
+    "X": -76.796831,
+    "Y": -12.4814698,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-76.795479, -12.36508800000001]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Punta Negra",
+    "COD_LDN": "01",
+    "TEL_1": "2315774",
+    "ANEXO": "209",
+    "TEL_2": "0",
+    "CELULAR1": "992347999",
+    "CELULAR2": " ",
+    "RESPONSABL": "Andrade Cajaleon Fiorella",
+    "EMAIL": "gdumunipuntanegra@gmail.com",
+    "DIRECCION": "Av. San jose y Los Calamares s/n",
+    "X": -76.795479,
+    "Y": -12.365088,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-76.78030999999999, -12.38938000000002]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "San Bartolo",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "981882780",
+    "CELULAR2": " ",
+    "RESPONSABL": "Zuniga Conchas Carlos Adriel",
+    "EMAIL": "cadrielzuniga@yahoo.com",
+    "DIRECCION": "Local Municipal de San Bartolo",
+    "X": -76.78031,
+    "Y": -12.38938,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-76.77349600000002, -12.40171299999997]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Santa Maria Del Mar",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "995379991",
+    "CELULAR2": " ",
+    "RESPONSABL": "Mondragon Mejia Gamaniel",
+    "EMAIL": "gamonme67@hotmail.com",
+    "DIRECCION": "Av. Mar Pacifico s/n cuadra 1",
+    "X": -76.773496,
+    "Y": -12.401713,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-76.76540999999997, -11.97701999999998]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Chaclacayo",
+    "COD_LDN": "01",
+    "TEL_1": "3582415",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "922410739",
+    "CELULAR2": " ",
+    "RESPONSABL": "Hinostroza Macuri Simon Jorge",
+    "EMAIL": "jorge_hinostrozahz@yahoo.com",
+    "DIRECCION": "Carretera central cuadra 10 s/n (Altura de la Comisaria)",
+    "X": -76.76541,
+    "Y": -11.97702,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-76.75673999999998, -12.09482000000003]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Cieneguilla",
+    "COD_LDN": "01",
+    "TEL_1": "4798292",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "951470461",
+    "CELULAR2": " ",
+    "RESPONSABL": "Ventura Tamayo Luis",
+    "EMAIL": "luisventura0811@gmail.com",
+    "DIRECCION": "A. Pachacutec Mz i Lote 1 (Centro Poblado Rural Tambo Viejo)",
+    "X": -76.75674,
+    "Y": -12.09482,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-76.69325199999997, -11.93759299999999]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Lurigancho Chosica",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "3610422",
+    "CELULAR1": "980121700",
+    "CELULAR2": " ",
+    "RESPONSABL": "Jose Martinez Horna",
+    "EMAIL": "pagaza@hotmail.com",
+    "DIRECCION": "jr colombia S/N san fernando bajo Chosica",
+    "X": -76.693252,
+    "Y": -11.937593,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-76.372176556, -6.495009518000018]
+    },
+    "properties": {
+    "DPTO": "San Martin",
+    "PROVINCIA": "San Martin",
+    "DISTRITO": "Tarapoto",
+    "COD_LDN": "042",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "959954233",
+    "CELULAR2": "948586796",
+    "RESPONSABL": "Sr. Luis Rivas Caballero",
+    "EMAIL": "luchorivas@live.com",
+    "DIRECCION": "Prolongacion Los Pinos S/N (antiguo camal)",
+    "X": -76.37217656,
+    "Y": -6.49500952,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-76.2527, -10.6644]
+    },
+    "properties": {
+    "DPTO": "Pasco",
+    "PROVINCIA": "Pasco",
+    "DISTRITO": "Yanacancha",
+    "COD_LDN": "063",
+    "TEL_1": "505658",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "984081782",
+    "CELULAR2": "959951789",
+    "RESPONSABL": "Sr. Marco Antonio Salazar Huallpa",
+    "EMAIL": "coer_pascoperu@yahoo.com",
+    "DIRECCION": "Jr. Angamos s/n - Parque Universitario - Urb. San Juan",
+    "X": -76.2527,
+    "Y": -10.6644,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-76.239284, -9.926331000000005]
+    },
+    "properties": {
+    "DPTO": "Huanuco",
+    "PROVINCIA": "Huanuco",
+    "DISTRITO": "Huanuco",
+    "COD_LDN": "062",
+    "TEL_1": "526012",
+    "ANEXO": "0",
+    "TEL_2": "525996",
+    "CELULAR1": "962542554",
+    "CELULAR2": "0",
+    "RESPONSABL": "Ing Irene  Carmen Rojas Meza",
+    "EMAIL": "coer@regionhuanuco.gob.pe",
+    "DIRECCION": "Jr. Constitucion Nro 471 Int. A  Huanuco",
+    "X": -76.239284,
+    "Y": -9.926331,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-75.73506900000001, -14.075469]
+    },
+    "properties": {
+    "DPTO": "Ica",
+    "PROVINCIA": "Ica",
+    "DISTRITO": "Ica",
+    "COD_LDN": "056",
+    "TEL_1": "237348",
+    "ANEXO": "308",
+    "TEL_2": "212846",
+    "CELULAR1": "981984700",
+    "CELULAR2": "991899624",
+    "RESPONSABL": "Crl EP \"R\" Enrique Aguilar del Alcazar",
+    "EMAIL": "eaguilar@regionica.gob.pe",
+    "DIRECCION": "Urb. La Palma m 48",
+    "X": -75.735069,
+    "Y": -14.075469,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-75.34249299999999, -11.89236399999999]
+    },
+    "properties": {
+    "DPTO": "Junin",
+    "PROVINCIA": "Concepcion",
+    "DISTRITO": "Matahuasi",
+    "COD_LDN": "064",
+    "TEL_1": "236671",
+    "ANEXO": "0",
+    "TEL_2": "602000",
+    "CELULAR1": "971069960",
+    "CELULAR2": "0",
+    "RESPONSABL": "Luis Alberto Kam y Ratto",
+    "EMAIL": "coergrj@gmail.com",
+    "DIRECCION": "Carretera Central Margen Izquierda Km 100 Distrito Matahuasi",
+    "X": -75.342493,
+    "Y": -11.892364,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-74.97359999999998, -12.7885]
+    },
+    "properties": {
+    "DPTO": "Huancavelica",
+    "PROVINCIA": "Huancavelica",
+    "DISTRITO": "Huancavelica",
+    "COD_LDN": "067",
+    "TEL_1": "452699",
+    "ANEXO": "0",
+    "TEL_2": "451575",
+    "CELULAR1": "943665480",
+    "CELULAR2": "950898059",
+    "RESPONSABL": "Ing. Clodoaldo Chancha Bendezu",
+    "EMAIL": "huancavelicacoer@gmail.com",
+    "DIRECCION": "Jr. Demetrio Molloy Nro 389 Huancavelica",
+    "X": -74.9736,
+    "Y": -12.7885,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-74.56466599999999, -8.385947999999985]
+    },
+    "properties": {
+    "DPTO": "Ucayali",
+    "PROVINCIA": "Coronel Portillo",
+    "DISTRITO": "Yarinacocha",
+    "COD_LDN": "061",
+    "TEL_1": "591141",
+    "ANEXO": "0",
+    "TEL_2": "586120",
+    "CELULAR1": "962889934",
+    "CELULAR2": "954356080",
+    "RESPONSABL": "Ivo Norman Agüero Paredes",
+    "EMAIL": "agueroivo10@hmail.com",
+    "DIRECCION": "Jr. Raymondi 220 - Pucallpa",
+    "X": -74.564666,
+    "Y": -8.385948,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-74.22604100000001, -13.15369399999997]
+    },
+    "properties": {
+    "DPTO": "Ayacucho",
+    "PROVINCIA": "Huamanga",
+    "DISTRITO": "Ayacucho",
+    "COD_LDN": "066",
+    "TEL_1": "318462",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "966614738",
+    "CELULAR2": "966124356",
+    "RESPONSABL": "Ing. Carlos Rodriguez Palomino",
+    "EMAIL": "coer.ayacucho@gmail.com",
+    "DIRECCION": "Jr. Garcilazo de la Vega No 775, dist. Ayacucho",
+    "X": -74.226041,
+    "Y": -13.153694,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.1456, -12.06232999999997]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Callao",
+    "DISTRITO": "Callao",
+    "COD_LDN": "01",
+    "TEL_1": "2016411",
+    "ANEXO": "1162",
+    "TEL_2": "0",
+    "CELULAR1": "982114993",
+    "CELULAR2": "975473091",
+    "RESPONSABL": "Minaya Guiffor Werner Manuel",
+    "EMAIL": "coe.provincia.callao@gmail.com",
+    "DIRECCION": "Jr. Pedro Ruiz Gallo 170 ( Frente al Club Sport Boys)",
+    "X": -77.1456,
+    "Y": -12.06233,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.12844000000001, -12.06306999999998]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Callao",
+    "DISTRITO": "Bellavista",
+    "COD_LDN": "01",
+    "TEL_1": "7439696",
+    "ANEXO": "242",
+    "TEL_2": "0",
+    "CELULAR1": "949920536",
+    "CELULAR2": " ",
+    "RESPONSABL": "Wilfredo Alfredo Rivina Rivera",
+    "EMAIL": "laperlaalfredo2011@hotmail.com",
+    "DIRECCION": "JR COLINA 601 (3ER PISO)",
+    "X": -77.12844,
+    "Y": -12.06307,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.12787800000001, -11.877004]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Callao",
+    "DISTRITO": "Ventanilla",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "924821274",
+    "CELULAR2": " ",
+    "RESPONSABL": "Gutierrez Romero Lander Manuel",
+    "EMAIL": "glutander@gmail.com",
+    "DIRECCION": "Av. Playa s/n",
+    "X": -77.127878,
+    "Y": -11.877004,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.12491899999998, -11.85501900000003]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Callao",
+    "DISTRITO": "Mi Peru",
+    "COD_LDN": "01",
+    "TEL_1": "3799746",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "984355997",
+    "CELULAR2": "970482153",
+    "RESPONSABL": "Rumichi Pinday Victor Raul",
+    "EMAIL": "raulrumiche2006@yahoo.es",
+    "DIRECCION": "Av. Ayacucho s/n",
+    "X": -77.124919,
+    "Y": -11.855019,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.1203769, -12.066238]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Callao",
+    "DISTRITO": "La Perla",
+    "COD_LDN": "01",
+    "TEL_1": "7362516",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "988276465",
+    "CELULAR2": " ",
+    "RESPONSABL": "Contreras Atalaya Jose Jesus",
+    "EMAIL": "contrerasjosejesus@gmail.com",
+    "DIRECCION": "Av. Santa Rosa y Jose  Galvez ( Ovalo de la Perla)",
+    "X": -77.1203769,
+    "Y": -12.066238,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.118044, -12.06468200000001]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Callao",
+    "DISTRITO": "Callao",
+    "COD_LDN": "01",
+    "TEL_1": "4122002",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "995806151",
+    "CELULAR2": " ",
+    "RESPONSABL": "Suarez Castro Elmer",
+    "EMAIL": "elmer_suarez@hotmail.com",
+    "DIRECCION": "Av. Juan Pablo II 140 Bellavista",
+    "X": -77.118044,
+    "Y": -12.064682,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.1112, -12.00959999999998]
+    },
+    "properties": {
+    "DPTO": "Callao",
+    "PROVINCIA": "Callao",
+    "DISTRITO": "Callao",
+    "COD_LDN": "01",
+    "TEL_1": "4122002",
+    "ANEXO": "0",
+    "TEL_2": "4531157",
+    "CELULAR1": "995806151",
+    "CELULAR2": "994080658",
+    "RESPONSABL": "Elmer Suares Castro",
+    "EMAIL": "esuarez@regioncallao.gob.pe",
+    "DIRECCION": "Av. Elmer Faucett 3979, distrito y provincia del Callao",
+    "X": -77.1112,
+    "Y": -12.0096,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.09971000000002, -12.04446000000002]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Callao",
+    "DISTRITO": "Carmen De La Legua Reynoso",
+    "COD_LDN": "01",
+    "TEL_1": "7332748",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "976193660",
+    "CELULAR2": " ",
+    "RESPONSABL": "David Llanos Arecurenaga",
+    "EMAIL": "david.arescurenaga@hotmail.com",
+    "DIRECCION": "Jr. Ica y auxiliar Faucatt -Frente Politecnico",
+    "X": -77.09971,
+    "Y": -12.04446,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.0930161, -11.99060980000002]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Los Olivos",
+    "COD_LDN": "01",
+    "TEL_1": "6138282",
+    "ANEXO": "6103",
+    "TEL_2": "0",
+    "CELULAR1": "941439763",
+    "CELULAR2": " ",
+    "RESPONSABL": "Diaz Cutrilla Julio",
+    "EMAIL": "juliodiaz_06@hotmail.com",
+    "DIRECCION": "Av. Carlos Izaguirre cuadra 8 ( Urb. Mercurio)",
+    "X": -77.0930161,
+    "Y": -11.9906098,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.08717000000002, -12.01161999999999]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "San Martin De Porres",
+    "COD_LDN": "01",
+    "TEL_1": "2549280",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "936630097",
+    "CELULAR2": " ",
+    "RESPONSABL": "Herrera Espinoza Gaston",
+    "EMAIL": "gastonherrera@hotmail.com",
+    "DIRECCION": "Av. Proceres cuadra 7 con Angelica Gamarra s/n",
+    "X": -77.08717,
+    "Y": -12.01162,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.08474572300003, -11.93382867899999]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Puente Piedra",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "945076836",
+    "CELULAR2": " ",
+    "RESPONSABL": "Vargas Luque Diego",
+    "EMAIL": " ",
+    "DIRECCION": "Calle los claveles con Camino Real (Ex colegio Cervantes)",
+    "X": -77.08474572,
+    "Y": -11.93382868,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.08100000000002, -12.09263800000002]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "San Miguel",
+    "COD_LDN": "01",
+    "TEL_1": "2637040",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "999791814",
+    "CELULAR2": " ",
+    "RESPONSABL": "Luna Renteros luis",
+    "EMAIL": "luislunarenteros@gmail.com",
+    "DIRECCION": "Av. Federico Gallese cuadra 3 (Parque Media Luna)",
+    "X": -77.081,
+    "Y": -12.092638,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.06260700000001, -12.07804199999998]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Pueblo Libre",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "941399014",
+    "CELULAR2": " ",
+    "RESPONSABL": "Moran Siles Luis Rosas",
+    "EMAIL": "lrms24@hotmail.com",
+    "DIRECCION": "Jr. Manuel Vivanco",
+    "X": -77.062607,
+    "Y": -12.078042,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.0614382, -12.0893557]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Magdalena Del Mar",
+    "COD_LDN": "01",
+    "TEL_1": "6780855",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "997920728",
+    "CELULAR2": " ",
+    "RESPONSABL": "Barboza Cleque Orlando",
+    "EMAIL": "o.barboza9@hotmail.com",
+    "DIRECCION": "Jr. Parque Leoncio Prado 115 (Hospital Militar)",
+    "X": -77.0614382,
+    "Y": -12.0893557,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.05626000000001, -11.96624000000003]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Comas",
+    "COD_LDN": "01",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "977966387",
+    "CELULAR2": " ",
+    "RESPONSABL": "Saavedra Estrada Renzo",
+    "EMAIL": "resaest@gmail.com",
+    "DIRECCION": "Av. Tupac Amaru Km. 8.5 (Frente al C.C. Mega 80)",
+    "X": -77.05626,
+    "Y": -11.96624,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Local",
+    "NIVEL_GOBI": "Local",
+    "NIVEL_COE": "COEL"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-77.05619999999999, -12.0489]
+    },
+    "properties": {
+    "DPTO": "Lima",
+    "PROVINCIA": "Lima",
+    "DISTRITO": "Lima",
+    "COD_LDN": "01",
+    "TEL_1": "6157800",
+    "ANEXO": "1317",
+    "TEL_2": "0",
+    "CELULAR1": "0",
+    "CELULAR2": "0",
+    "RESPONSABL": "Americo Jesus Cornejo Llerena",
+    "EMAIL": "acornejo@mtc.gob.pe",
+    "DIRECCION": "Jr. ZorritosS 1203",
+    "X": -77.0562,
+    "Y": -12.0489,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Transportes y Comunicaciones",
+    "NIVEL_GOBI": "Sectorial",
+    "NIVEL_COE": "COES"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-73.33734700000002, -3.854507000000012]
+    },
+    "properties": {
+    "DPTO": "Loreto",
+    "PROVINCIA": "Maynas",
+    "DISTRITO": "San Juan Bautista",
+    "COD_LDN": "065",
+    "TEL_1": "226915",
+    "ANEXO": "0",
+    "TEL_2": "266996",
+    "CELULAR1": "962870912",
+    "CELULAR2": "921297422",
+    "RESPONSABL": "ing. Luis Francisco Sanchez Zamora",
+    "EMAIL": "lagalvez@regionloreto.gop.pe",
+    "DIRECCION": "Carretera Iquitos Nauta Km 9.5",
+    "X": -73.337347,
+    "Y": -3.854507,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-72.87222200000002, -13.61944399999999]
+    },
+    "properties": {
+    "DPTO": "Apurimac",
+    "PROVINCIA": "Abancay",
+    "DISTRITO": "Tamburco",
+    "COD_LDN": "083",
+    "TEL_1": "200068",
+    "ANEXO": "0",
+    "TEL_2": "322688",
+    "CELULAR1": "983681876",
+    "CELULAR2": "0",
+    "RESPONSABL": "Lic. Ljubika Ingira Ruiz Lopez",
+    "EMAIL": "defensacivil@regionapurimac.gob.pe",
+    "DIRECCION": "Plaza de Armas Tamburco, Prov. Abancay (Ref. Municipalidad)",
+    "X": -72.872222,
+    "Y": -13.619444,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-71.95585299999999, -13.53564399999999]
+    },
+    "properties": {
+    "DPTO": "Cusco",
+    "PROVINCIA": "Cusco",
+    "DISTRITO": "Wanchaq",
+    "COD_LDN": "084",
+    "TEL_1": "0",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "995707033",
+    "CELULAR2": "#0027134",
+    "RESPONSABL": "Ancci Castaneda Randonlfo",
+    "EMAIL": "randoancicas9@hotmail.com",
+    "DIRECCION": "Av. Velasco Astete S/N",
+    "X": -71.955853,
+    "Y": -13.535644,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-71.50529999999998, -16.42020000000002]
+    },
+    "properties": {
+    "DPTO": "Arequipa",
+    "PROVINCIA": "Arequipa",
+    "DISTRITO": "Paucarpata",
+    "COD_LDN": "054",
+    "TEL_1": "382860",
+    "ANEXO": "1101",
+    "TEL_2": "465029",
+    "CELULAR1": "959995667",
+    "CELULAR2": "959424546",
+    "RESPONSABL": "Jaquelin Choque Cuno",
+    "EMAIL": "coer.monitoreo.aqp@regionarequipa.gob.pe",
+    "DIRECCION": "Avenida Union Nro 200, Urbanizacion Cesar Vallejo distrito Paucarpata",
+    "X": -71.5053,
+    "Y": -16.4202,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-70.96631100000002, -17.20825200000002]
+    },
+    "properties": {
+    "DPTO": "Moquegua",
+    "PROVINCIA": "Mariscal Nieto",
+    "DISTRITO": "Moquegua",
+    "COD_LDN": "053",
+    "TEL_1": "462031",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "953933197",
+    "CELULAR2": "946633695",
+    "RESPONSABL": "Silvia Mollendo Olayunca",
+    "EMAIL": "coer@regionmoquegua.gob.pe",
+    "DIRECCION": "Av. Andres Avelino Caceres S/N - Ref.: Local Junta de Usuarios de Agua, a 2 Cuadras del Penal",
+    "X": -70.966311,
+    "Y": -17.208252,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-70.25400000000002, -18.05000000000001]
+    },
+    "properties": {
+    "DPTO": "Tacna",
+    "PROVINCIA": "Tacna",
+    "DISTRITO": "Crnl Gregorio Albarracin Lanchipa",
+    "COD_LDN": "052",
+    "TEL_1": "583030",
+    "ANEXO": "8530",
+    "TEL_2": "245531",
+    "CELULAR1": "952903443",
+    "CELULAR2": "952959575",
+    "RESPONSABL": "Julio Cesar Gil Pacheco",
+    "EMAIL": "coer.tacna@regiontacna.gob.pe",
+    "DIRECCION": "Av. Bohemia Tacnena S/N, distrito Gregorio Albarracin",
+    "X": -70.254,
+    "Y": -18.05,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-69.99930000000001, -15.8768]
+    },
+    "properties": {
+    "DPTO": "Puno",
+    "PROVINCIA": "Puno",
+    "DISTRITO": "Puno",
+    "COD_LDN": "051",
+    "TEL_1": "352103",
+    "ANEXO": "0",
+    "TEL_2": "354000",
+    "CELULAR1": "951963232",
+    "CELULAR2": "979833888",
+    "RESPONSABL": "Ing Adolfo German Quispe Chaina",
+    "EMAIL": "coer-puno@regionpuno.gob.pe",
+    "DIRECCION": "Av estudiante 1410 - puno",
+    "X": -69.9993,
+    "Y": -15.8768,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  },
+  {
+   "type": "Feature",
+    "geometry": {
+    "type": "Point",
+     "coordinates": [-69.18541388900002, -12.60188888900001]
+    },
+    "properties": {
+    "DPTO": "Madre de Dios",
+    "PROVINCIA": " ",
+    "DISTRITO": " ",
+    "COD_LDN": "082",
+    "TEL_1": "639478",
+    "ANEXO": "0",
+    "TEL_2": "0",
+    "CELULAR1": "989732141",
+    "CELULAR2": "959252353",
+    "RESPONSABL": "Jorge Silva Capiona",
+    "EMAIL": "coer-madrededios@regionmadrededios.gob.pe",
+    "DIRECCION": "Jr. Amazonas 181, Puerto Maldonado.",
+    "X": -69.18541389,
+    "Y": -12.60188889,
+    "NOMB_ALMC": " ",
+    "DIST_KM": 0,
+    "DIST_HRS": " ",
+    "SECTOR_GOB": "Gobierno Regional",
+    "NIVEL_GOBI": "Regional",
+    "NIVEL_COE": "COER"
+    }
+  }
+ ]
+}
