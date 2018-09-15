@@ -1,0 +1,4632 @@
+{
+  "type": "FeatureCollection",
+  "totalFeatures": 220,
+  "features": [
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.84,
+          -5.77
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/01/04",
+        "hora_utc": "02:14:34.91",
+        "latitud": -5.7676,
+        "longitud": -75.8358,
+        "prof": 40,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.37,
+          -17.44
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/01/06",
+        "hora_utc": "14:34:51.01",
+        "latitud": -17.4368,
+        "longitud": -72.3711,
+        "prof": 39,
+        "magnitud": 4.5,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.02,
+          -18.51
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/01/09",
+        "hora_utc": "18:38:41.26",
+        "latitud": -18.5068,
+        "longitud": -70.0242,
+        "prof": 124,
+        "magnitud": 4.9,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7,
+          -11.63
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/01/10",
+        "hora_utc": "05:14:22.22",
+        "latitud": -11.6275,
+        "longitud": -77.6985,
+        "prof": 43,
+        "magnitud": 4.3,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1,
+          -12.38
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/01/15",
+        "hora_utc": "19:01:17.17",
+        "latitud": -12.3785,
+        "longitud": -77.0952,
+        "prof": 50,
+        "magnitud": 3.5,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.67,
+          -5.74
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/01/15",
+        "hora_utc": "22:34:50.50",
+        "latitud": -5.7443,
+        "longitud": -80.6656,
+        "prof": 35,
+        "magnitud": 4.8,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.91,
+          -15.85
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/01/16",
+        "hora_utc": "01:29:15.76",
+        "latitud": -15.85,
+        "longitud": -71.9112,
+        "prof": 12,
+        "magnitud": 4.2,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03,
+          -5.79
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/01/16",
+        "hora_utc": "07:04:12.57",
+        "latitud": -5.7904,
+        "longitud": -77.0303,
+        "prof": 34,
+        "magnitud": 4.7,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.17,
+          -13.39
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/01/19",
+        "hora_utc": "05:14:05.42",
+        "latitud": -13.3905,
+        "longitud": -76.171,
+        "prof": 60,
+        "magnitud": 4.3,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.11,
+          -5.13
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/01/20",
+        "hora_utc": "23:03:11.24",
+        "latitud": -5.1332,
+        "longitud": -81.108,
+        "prof": 25,
+        "magnitud": 3.8,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.44,
+          -18.02
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/01/23",
+        "hora_utc": "14:53:30.57",
+        "latitud": -18.0178,
+        "longitud": -70.4409,
+        "prof": 93,
+        "magnitud": 4.3,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.19,
+          -13.56
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/01/25",
+        "hora_utc": "00:56:22.30",
+        "latitud": -13.5581,
+        "longitud": -76.1934,
+        "prof": 48,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.65,
+          -16.16
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/01/28",
+        "hora_utc": "22:04:33.44",
+        "latitud": -16.1625,
+        "longitud": -73.6494,
+        "prof": 47,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.55,
+          -16.72
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/01/29",
+        "hora_utc": "15:52:02.89",
+        "latitud": -16.7151,
+        "longitud": -71.5481,
+        "prof": 37,
+        "magnitud": 3.7,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.57,
+          -14.44
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/01/30",
+        "hora_utc": "05:59:48.53",
+        "latitud": -14.4441,
+        "longitud": -72.5659,
+        "prof": 11,
+        "magnitud": 4.1,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.16",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.55,
+          -16.73
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/01/31",
+        "hora_utc": "23:57:32.22",
+        "latitud": -16.7332,
+        "longitud": -71.5483,
+        "prof": 16,
+        "magnitud": 3.7,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.71,
+          -15.17
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/02/02",
+        "hora_utc": "03:09:07.87",
+        "latitud": -15.1737,
+        "longitud": -74.7094,
+        "prof": 68,
+        "magnitud": 4.4,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.54,
+          -9.14
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/02/06",
+        "hora_utc": "14:40:06.46",
+        "latitud": -9.1361,
+        "longitud": -77.5433,
+        "prof": 10,
+        "magnitud": 4.2,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.46,
+          -13.66
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/02/08",
+        "hora_utc": "20:22:48.94",
+        "latitud": -13.664,
+        "longitud": -76.4599,
+        "prof": 55,
+        "magnitud": 4.1,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.47,
+          -10.42
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/02/11",
+        "hora_utc": "13:59:11.92",
+        "latitud": -10.4233,
+        "longitud": -74.4679,
+        "prof": 110,
+        "magnitud": 4.4,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.86,
+          -13.85
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/02/12",
+        "hora_utc": "11:40:35.97",
+        "latitud": -13.8507,
+        "longitud": -72.8634,
+        "prof": 5,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66,
+          -14.32
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/02/22",
+        "hora_utc": "20:09:52.94",
+        "latitud": -14.3243,
+        "longitud": -75.6646,
+        "prof": 54,
+        "magnitud": 4.3,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.81,
+          -15.84
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/02/22",
+        "hora_utc": "20:15:21.76",
+        "latitud": -15.8397,
+        "longitud": -71.8128,
+        "prof": 5,
+        "magnitud": 5,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.81,
+          -15.87
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/02/22",
+        "hora_utc": "21:01:46.16",
+        "latitud": -15.8669,
+        "longitud": -71.8119,
+        "prof": 8,
+        "magnitud": 5,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.25",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8,
+          -15.9
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/02/22",
+        "hora_utc": "21:50:46.66",
+        "latitud": -15.8951,
+        "longitud": -71.8046,
+        "prof": 7,
+        "magnitud": 5,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.26",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8,
+          -15.84
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/02/23",
+        "hora_utc": "20:08:18.15",
+        "latitud": -15.8399,
+        "longitud": -71.7993,
+        "prof": 9,
+        "magnitud": 4.6,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.27",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93,
+          -12.71
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/03/02",
+        "hora_utc": "02:51:25.89",
+        "latitud": -12.7123,
+        "longitud": -76.9345,
+        "prof": 35,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.57,
+          -16.1
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/03/03",
+        "hora_utc": "17:40:20.23",
+        "latitud": -16.0992,
+        "longitud": -72.5673,
+        "prof": 28,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.29",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.85,
+          -12.63
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/03/05",
+        "hora_utc": "04:24:03.68",
+        "latitud": -12.6317,
+        "longitud": -76.8511,
+        "prof": 35,
+        "magnitud": 3.5,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.27,
+          -13.71
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/03/07",
+        "hora_utc": "19:30:52.48",
+        "latitud": -13.7095,
+        "longitud": -76.2668,
+        "prof": 43,
+        "magnitud": 3.6,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.31",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.69,
+          -10.38
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/03/09",
+        "hora_utc": "04:40:25.80",
+        "latitud": -10.3809,
+        "longitud": -78.6871,
+        "prof": 56,
+        "magnitud": 4.6,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.32",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04,
+          -12.83
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/03/11",
+        "hora_utc": "14:33:10.53",
+        "latitud": -12.8327,
+        "longitud": -77.0364,
+        "prof": 44,
+        "magnitud": 4.1,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.33",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.85,
+          -15.8
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/03/14",
+        "hora_utc": "15:50:45.37",
+        "latitud": -15.8019,
+        "longitud": -71.8542,
+        "prof": 6,
+        "magnitud": 4.1,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.85,
+          -8.91
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/03/17",
+        "hora_utc": "17:35:51.40",
+        "latitud": -8.906,
+        "longitud": -80.8546,
+        "prof": 57,
+        "magnitud": 4.5,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.35",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.51,
+          -16.58
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/03/18",
+        "hora_utc": "16:16:34.55",
+        "latitud": -16.5768,
+        "longitud": -72.507,
+        "prof": 87,
+        "magnitud": 4.4,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.32,
+          -9.84
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/03/19",
+        "hora_utc": "05:53:44.19",
+        "latitud": -9.839,
+        "longitud": -75.3233,
+        "prof": 146,
+        "magnitud": 4.7,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.37",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.65,
+          -13.27
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/03/19",
+        "hora_utc": "17:41:01.76",
+        "latitud": -13.2737,
+        "longitud": -76.6458,
+        "prof": 48,
+        "magnitud": 3.9,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.39,
+          -13.16
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/03/19",
+        "hora_utc": "23:06:28.55",
+        "latitud": -13.164,
+        "longitud": -76.3914,
+        "prof": 69,
+        "magnitud": 4.5,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.39",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.48,
+          -16.04
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/03/21",
+        "hora_utc": "02:21:25.10",
+        "latitud": -16.0428,
+        "longitud": -73.4757,
+        "prof": 68,
+        "magnitud": 4.1,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.02,
+          -16
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/03/23",
+        "hora_utc": "08:00:11.78",
+        "latitud": -15.9993,
+        "longitud": -74.0168,
+        "prof": 76,
+        "magnitud": 4.1,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.41",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.76,
+          -15.85
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/03/23",
+        "hora_utc": "22:37:32.02",
+        "latitud": -15.8548,
+        "longitud": -71.7576,
+        "prof": 10,
+        "magnitud": 4.6,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.17,
+          -10.96
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/03/27",
+        "hora_utc": "20:59:26.87",
+        "latitud": -10.9614,
+        "longitud": -74.1737,
+        "prof": 168,
+        "magnitud": 4.8,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.43",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.95,
+          -16.76
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/03/28",
+        "hora_utc": "20:17:51.60",
+        "latitud": -16.7565,
+        "longitud": -72.9511,
+        "prof": 35,
+        "magnitud": 4.3,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.44",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.24,
+          -9.52
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/03/30",
+        "hora_utc": "17:30:46.75",
+        "latitud": -9.5249,
+        "longitud": -79.2377,
+        "prof": 48,
+        "magnitud": 5.1,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.45",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.74,
+          -16.84
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/04/03",
+        "hora_utc": "00:48:33.05",
+        "latitud": -16.8355,
+        "longitud": -71.7379,
+        "prof": 51,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.46",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.66,
+          -12.3
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/04/03",
+        "hora_utc": "13:40:32.28",
+        "latitud": -12.3043,
+        "longitud": -76.6638,
+        "prof": 86,
+        "magnitud": 3.6,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.47",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34,
+          -11.89
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/04/04",
+        "hora_utc": "07:52:16.21",
+        "latitud": -11.8942,
+        "longitud": -77.342,
+        "prof": 66,
+        "magnitud": 3.5,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.48",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.93,
+          -14.27
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/04/05",
+        "hora_utc": "04:34:10.94",
+        "latitud": -14.2709,
+        "longitud": -75.9281,
+        "prof": 53,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06,
+          -8.91
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/04/06",
+        "hora_utc": "08:49:26.29",
+        "latitud": -8.9131,
+        "longitud": -79.0594,
+        "prof": 65,
+        "magnitud": 4.5,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.50",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55,
+          -10
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/04/06",
+        "hora_utc": "09:34:10.07",
+        "latitud": -9.9992,
+        "longitud": -75.5491,
+        "prof": 118,
+        "magnitud": 4.1,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.51",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.97,
+          -15.62
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/04/06",
+        "hora_utc": "10:31:07.29",
+        "latitud": -15.622,
+        "longitud": -74.9708,
+        "prof": 54,
+        "magnitud": 3.9,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.52",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.82,
+          -7.99
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/04/07",
+        "hora_utc": "08:40:34.67",
+        "latitud": -7.9949,
+        "longitud": -79.825,
+        "prof": 63,
+        "magnitud": 4.8,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.53",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.51,
+          -13.68
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/04/07",
+        "hora_utc": "20:40:48.45",
+        "latitud": -13.6796,
+        "longitud": -76.5096,
+        "prof": 46,
+        "magnitud": 4.7,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.54",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.08,
+          -17.29
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/04/07",
+        "hora_utc": "22:36:53.28",
+        "latitud": -17.2865,
+        "longitud": -72.0762,
+        "prof": 52,
+        "magnitud": 4.1,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.55",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.57,
+          -5.95
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/04/09",
+        "hora_utc": "00:32:24.22",
+        "latitud": -5.9544,
+        "longitud": -80.5706,
+        "prof": 54,
+        "magnitud": 4.3,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.56",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.03,
+          -12.33
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/04/10",
+        "hora_utc": "07:11:16.11",
+        "latitud": -12.3289,
+        "longitud": -76.0316,
+        "prof": 106,
+        "magnitud": 3.7,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.57",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.41,
+          -10.77
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/04/10",
+        "hora_utc": "16:20:22.35",
+        "latitud": -10.7685,
+        "longitud": -75.4149,
+        "prof": 141,
+        "magnitud": 5,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.58",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51,
+          -10.04
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/04/11",
+        "hora_utc": "02:15:49.67",
+        "latitud": -10.0396,
+        "longitud": -75.5075,
+        "prof": 35,
+        "magnitud": 4.2,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.59",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.22,
+          -11.96
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/04/12",
+        "hora_utc": "13:53:25.27",
+        "latitud": -11.9609,
+        "longitud": -77.223,
+        "prof": 57,
+        "magnitud": 3.7,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.60",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.84,
+          -16.68
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/04/19",
+        "hora_utc": "19:38:36.07",
+        "latitud": -16.6828,
+        "longitud": -71.8415,
+        "prof": 43,
+        "magnitud": 4.4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.61",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76,
+          -9.22
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/04/21",
+        "hora_utc": "03:03:36.94",
+        "latitud": -9.2154,
+        "longitud": -75.9999,
+        "prof": 15,
+        "magnitud": 4.1,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.62",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68,
+          -13.64
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/04/21",
+        "hora_utc": "09:39:59.03",
+        "latitud": -13.6449,
+        "longitud": -75.6793,
+        "prof": 74,
+        "magnitud": 4.4,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.63",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.52,
+          -14.72
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/04/30",
+        "hora_utc": "02:03:06.27",
+        "latitud": -14.7181,
+        "longitud": -71.5169,
+        "prof": 10,
+        "magnitud": 3.8,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.64",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9,
+          -12.45
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/05/01",
+        "hora_utc": "04:42:25.55",
+        "latitud": -12.4461,
+        "longitud": -74.9022,
+        "prof": 18,
+        "magnitud": 3.9,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.65",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95,
+          -12.65
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/05/02",
+        "hora_utc": "04:32:33.81",
+        "latitud": -12.6455,
+        "longitud": -76.9489,
+        "prof": 46,
+        "magnitud": 3.7,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.66",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.15,
+          -12.69
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/05/03",
+        "hora_utc": "15:59:49.32",
+        "latitud": -12.6859,
+        "longitud": -76.1543,
+        "prof": 98,
+        "magnitud": 3.9,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.67",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.23,
+          -9.54
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/05/05",
+        "hora_utc": "13:18:56.03",
+        "latitud": -9.541,
+        "longitud": -79.23,
+        "prof": 52,
+        "magnitud": 4.7,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.68",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.56,
+          -5.69
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/05/05",
+        "hora_utc": "15:59:14.91",
+        "latitud": -5.6941,
+        "longitud": -76.5642,
+        "prof": 34,
+        "magnitud": 4.2,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.69",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.22,
+          -3.99
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/05/09",
+        "hora_utc": "05:36:55.56",
+        "latitud": -3.9869,
+        "longitud": -81.2156,
+        "prof": 13,
+        "magnitud": 3.9,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.70",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.02,
+          -16.66
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/05/09",
+        "hora_utc": "17:12:47.90",
+        "latitud": -16.6559,
+        "longitud": -73.0193,
+        "prof": 33,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.71",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09,
+          -12.53
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/05/10",
+        "hora_utc": "03:35:18.69",
+        "latitud": -12.5304,
+        "longitud": -77.0864,
+        "prof": 35,
+        "magnitud": 3.8,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.72",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4,
+          -8.24
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/05/13",
+        "hora_utc": "13:54:01.79",
+        "latitud": -8.2448,
+        "longitud": -80.4017,
+        "prof": 40,
+        "magnitud": 4.8,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.73",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.15,
+          -16.88
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/05/13",
+        "hora_utc": "17:53:43.28",
+        "latitud": -16.8842,
+        "longitud": -72.1483,
+        "prof": 16,
+        "magnitud": 3.8,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.74",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.32,
+          -15.69
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/05/14",
+        "hora_utc": "23:39:15.10",
+        "latitud": -15.6948,
+        "longitud": -73.3223,
+        "prof": 104,
+        "magnitud": 5.2,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.75",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.72,
+          -15.84
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/05/16",
+        "hora_utc": "08:32:46.62",
+        "latitud": -15.8449,
+        "longitud": -71.7153,
+        "prof": 10,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.76",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.09,
+          -10.57
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/05/17",
+        "hora_utc": "16:29:49.15",
+        "latitud": -10.569,
+        "longitud": -75.0932,
+        "prof": 33,
+        "magnitud": 4.5,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.77",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.93,
+          -17.35
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/05/19",
+        "hora_utc": "05:37:49.85",
+        "latitud": -17.3462,
+        "longitud": -70.9272,
+        "prof": 104,
+        "magnitud": 4.5,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.78",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.35,
+          -16.16
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/05/20",
+        "hora_utc": "00:50:28.40",
+        "latitud": -16.1558,
+        "longitud": -74.3535,
+        "prof": 52,
+        "magnitud": 4.2,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.79",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.66,
+          -5.66
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/05/20",
+        "hora_utc": "06:15:11.93",
+        "latitud": -5.6621,
+        "longitud": -78.6616,
+        "prof": 21,
+        "magnitud": 4.2,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.80",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.63,
+          -13.83
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/05/21",
+        "hora_utc": "23:02:41.08",
+        "latitud": -13.8344,
+        "longitud": -72.6296,
+        "prof": 127,
+        "magnitud": 5.3,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.81",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.29,
+          -17.16
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/05/24",
+        "hora_utc": "02:07:33.79",
+        "latitud": -17.1563,
+        "longitud": -72.2874,
+        "prof": 24,
+        "magnitud": 3.7,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.82",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.52,
+          -14.43
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/06/02",
+        "hora_utc": "10:46:25.06",
+        "latitud": -14.4309,
+        "longitud": -75.5198,
+        "prof": 76,
+        "magnitud": 4.5,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.83",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.56,
+          -12.81
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/06/02",
+        "hora_utc": "20:58:54.98",
+        "latitud": -12.8088,
+        "longitud": -76.5587,
+        "prof": 74,
+        "magnitud": 4.1,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.84",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.96,
+          -17.77
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/06/04",
+        "hora_utc": "10:33:00.63",
+        "latitud": -17.7684,
+        "longitud": -69.9645,
+        "prof": 178,
+        "magnitud": 4.1,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.85",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.73,
+          -15.93
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/06/05",
+        "hora_utc": "01:15:29.72",
+        "latitud": -15.9284,
+        "longitud": -71.7283,
+        "prof": 8,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.86",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.29,
+          -13.01
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/06/13",
+        "hora_utc": "07:46:05.43",
+        "latitud": -13.0095,
+        "longitud": -71.2895,
+        "prof": 9,
+        "magnitud": 4.1,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.87",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80,
+          -4.54
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/06/13",
+        "hora_utc": "23:14:33.53",
+        "latitud": -4.5413,
+        "longitud": -79.997,
+        "prof": 39,
+        "magnitud": 4.1,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.88",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.99,
+          -4.16
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/06/14",
+        "hora_utc": "03:48:11.06",
+        "latitud": -4.156,
+        "longitud": -80.9905,
+        "prof": 30,
+        "magnitud": 3.5,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.89",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.15,
+          -4.09
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/06/14",
+        "hora_utc": "09:59:26.72",
+        "latitud": -4.0938,
+        "longitud": -81.1453,
+        "prof": 28,
+        "magnitud": 3.6,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.90",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.68,
+          -17.2
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/06/15",
+        "hora_utc": "04:58:14.97",
+        "latitud": -17.198,
+        "longitud": -70.6824,
+        "prof": 21,
+        "magnitud": 3.7,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.91",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2,
+          -12.47
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/06/17",
+        "hora_utc": "21:10:19.66",
+        "latitud": -12.4744,
+        "longitud": -77.1975,
+        "prof": 50,
+        "magnitud": 3.9,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.92",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.61,
+          -4.57
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/06/18",
+        "hora_utc": "10:47:24.93",
+        "latitud": -4.5657,
+        "longitud": -80.6062,
+        "prof": 27,
+        "magnitud": 3.4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.93",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4,
+          -11.8
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/06/18",
+        "hora_utc": "18:40:01.34",
+        "latitud": -11.8014,
+        "longitud": -77.402,
+        "prof": 62,
+        "magnitud": 4.6,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.94",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.65,
+          -12.15
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/06/19",
+        "hora_utc": "12:21:22.65",
+        "latitud": -12.1471,
+        "longitud": -77.6462,
+        "prof": 25,
+        "magnitud": 3.4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.95",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.57,
+          -6.62
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/06/21",
+        "hora_utc": "09:06:00.41",
+        "latitud": -6.6218,
+        "longitud": -78.5697,
+        "prof": 8,
+        "magnitud": 3.7,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.96",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.39,
+          -13.11
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/06/29",
+        "hora_utc": "17:12:13.04",
+        "latitud": -13.1064,
+        "longitud": -76.387,
+        "prof": 91,
+        "magnitud": 2.9,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.97",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.97,
+          -14.82
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/06/30",
+        "hora_utc": "02:32:54.99",
+        "latitud": -14.8243,
+        "longitud": -75.9662,
+        "prof": 46,
+        "magnitud": 4.7,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.98",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.62,
+          -14.85
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/06/30",
+        "hora_utc": "16:39:11.22",
+        "latitud": -14.8526,
+        "longitud": -75.6228,
+        "prof": 41,
+        "magnitud": 4.6,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.99",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.05,
+          -14.87
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/06",
+        "hora_utc": "02:02:51.29",
+        "latitud": -14.8741,
+        "longitud": -72.0515,
+        "prof": 6,
+        "magnitud": 4.7,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.100",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6,
+          -4.52
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/09",
+        "hora_utc": "05:54:15.18",
+        "latitud": -4.5201,
+        "longitud": -80.6044,
+        "prof": 24,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.101",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.75,
+          -19.08
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/09",
+        "hora_utc": "20:51:47.77",
+        "latitud": -19.0829,
+        "longitud": -69.7498,
+        "prof": 156,
+        "magnitud": 4.5,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.102",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.55,
+          -16.72
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/10",
+        "hora_utc": "04:49:45.18",
+        "latitud": -16.7167,
+        "longitud": -71.5454,
+        "prof": 46,
+        "magnitud": 3.7,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.103",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70,
+          -19.51
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/10",
+        "hora_utc": "14:32:12.09",
+        "latitud": -19.5085,
+        "longitud": -70.0007,
+        "prof": 132,
+        "magnitud": 4.8,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.104",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.43,
+          -13.96
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/10",
+        "hora_utc": "20:42:34.92",
+        "latitud": -13.9579,
+        "longitud": -73.4262,
+        "prof": 15,
+        "magnitud": 4.2,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.105",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.42,
+          -6.01
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/12",
+        "hora_utc": "10:29:40.64",
+        "latitud": -6.0128,
+        "longitud": -75.4164,
+        "prof": 37,
+        "magnitud": 4.2,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.106",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.19,
+          -12.63
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/12",
+        "hora_utc": "19:27:33.96",
+        "latitud": -12.6314,
+        "longitud": -77.1857,
+        "prof": 38,
+        "magnitud": 4.2,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.107",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.87,
+          -14.25
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/13",
+        "hora_utc": "13:27:35.63",
+        "latitud": -14.2546,
+        "longitud": -75.8703,
+        "prof": 52,
+        "magnitud": 4.3,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.108",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.73,
+          -9.78
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/15",
+        "hora_utc": "22:35:46.41",
+        "latitud": -9.7844,
+        "longitud": -74.7262,
+        "prof": 135,
+        "magnitud": 5,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.109",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.02,
+          -15.74
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/16",
+        "hora_utc": "09:27:35.38",
+        "latitud": -15.7416,
+        "longitud": -72.0245,
+        "prof": 8,
+        "magnitud": 4.9,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.110",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.05,
+          -15.75
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/16",
+        "hora_utc": "09:32:21.92",
+        "latitud": -15.7533,
+        "longitud": -72.053,
+        "prof": 9,
+        "magnitud": 3.7,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.111",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.05,
+          -15.74
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/16",
+        "hora_utc": "09:33:42.79",
+        "latitud": -15.7393,
+        "longitud": -72.0505,
+        "prof": 8,
+        "magnitud": 3.8,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.112",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.01,
+          -15.72
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/16",
+        "hora_utc": "09:58:08.67",
+        "latitud": -15.7244,
+        "longitud": -72.0123,
+        "prof": 6,
+        "magnitud": 3.5,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.113",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.99,
+          -15.76
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/16",
+        "hora_utc": "15:52:54.75",
+        "latitud": -15.7553,
+        "longitud": -71.9875,
+        "prof": 13,
+        "magnitud": 4.2,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.114",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.03,
+          -15.76
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/17",
+        "hora_utc": "02:37:42.92",
+        "latitud": -15.7587,
+        "longitud": -72.0302,
+        "prof": 7,
+        "magnitud": 5.7,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.115",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.17,
+          -5.95
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/17",
+        "hora_utc": "12:59:16.16",
+        "latitud": -5.9535,
+        "longitud": -76.1699,
+        "prof": 74,
+        "magnitud": 4.7,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.116",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.04,
+          -15.8
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/19",
+        "hora_utc": "00:34:54.77",
+        "latitud": -15.8014,
+        "longitud": -72.037,
+        "prof": 16,
+        "magnitud": 3.8,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.117",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.05,
+          -15.77
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/19",
+        "hora_utc": "04:00:17.62",
+        "latitud": -15.7703,
+        "longitud": -72.0513,
+        "prof": 12,
+        "magnitud": 3.7,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.118",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.08,
+          -15.75
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/19",
+        "hora_utc": "13:27:44.80",
+        "latitud": -15.7496,
+        "longitud": -72.0829,
+        "prof": 9,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.119",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.03,
+          -15.67
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/20",
+        "hora_utc": "10:41:47.64",
+        "latitud": -15.6708,
+        "longitud": -72.0307,
+        "prof": 10,
+        "magnitud": 3.9,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.120",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.59,
+          -7.03
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/21",
+        "hora_utc": "20:07:25.12",
+        "latitud": -7.0347,
+        "longitud": -78.5874,
+        "prof": 24,
+        "magnitud": 3.9,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.121",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.37,
+          -16.93
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/22",
+        "hora_utc": "05:05:44.00",
+        "latitud": -16.931,
+        "longitud": -72.372,
+        "prof": 45,
+        "magnitud": 4.2,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.122",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.03,
+          -15.76
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/23",
+        "hora_utc": "09:46:05.13",
+        "latitud": -15.758,
+        "longitud": -72.0328,
+        "prof": 20,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.123",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94,
+          -9.09
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/23",
+        "hora_utc": "09:48:50.39",
+        "latitud": -9.0893,
+        "longitud": -78.9367,
+        "prof": 73,
+        "magnitud": 4.7,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.124",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.01,
+          -15.75
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/25",
+        "hora_utc": "02:07:20.76",
+        "latitud": -15.7544,
+        "longitud": -72.0075,
+        "prof": 7,
+        "magnitud": 4.5,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.125",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7,
+          -16.79
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/26",
+        "hora_utc": "20:10:05.20",
+        "latitud": -16.7878,
+        "longitud": -71.6964,
+        "prof": 36,
+        "magnitud": 3.9,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.126",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.54,
+          -16.73
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/27",
+        "hora_utc": "22:43:26.21",
+        "latitud": -16.7327,
+        "longitud": -71.5394,
+        "prof": 26,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.127",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.93,
+          -5.6
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/29",
+        "hora_utc": "03:47:56.50",
+        "latitud": -5.5999,
+        "longitud": -80.9255,
+        "prof": 38,
+        "magnitud": 3.9,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.128",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95,
+          -8.62
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/31",
+        "hora_utc": "10:25:18.51",
+        "latitud": -8.6198,
+        "longitud": -79.9493,
+        "prof": 44,
+        "magnitud": 4.5,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.129",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.74,
+          -5.12
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/07/31",
+        "hora_utc": "10:28:07.47",
+        "latitud": -5.1184,
+        "longitud": -80.7434,
+        "prof": 44,
+        "magnitud": 4.8,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.130",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.98,
+          -17.89
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/08/02",
+        "hora_utc": "03:21:03.94",
+        "latitud": -17.8911,
+        "longitud": -69.977,
+        "prof": 149,
+        "magnitud": 4.4,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.131",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.09,
+          -15.79
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/08/07",
+        "hora_utc": "18:25:15.24",
+        "latitud": -15.789,
+        "longitud": -72.0925,
+        "prof": 14,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.132",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08,
+          -17.68
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/08/08",
+        "hora_utc": "15:21:41.48",
+        "latitud": -17.6777,
+        "longitud": -71.0763,
+        "prof": 16,
+        "magnitud": 4.5,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.133",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.92,
+          -15.87
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/08/11",
+        "hora_utc": "00:31:08.54",
+        "latitud": -15.8746,
+        "longitud": -71.9241,
+        "prof": 16,
+        "magnitud": 3.9,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.134",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.15,
+          -6.32
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/08/12",
+        "hora_utc": "02:27:54.72",
+        "latitud": -6.3219,
+        "longitud": -80.1476,
+        "prof": 58,
+        "magnitud": 4.6,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.135",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.67,
+          -5.24
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/08/12",
+        "hora_utc": "09:49:31.56",
+        "latitud": -5.2373,
+        "longitud": -81.6665,
+        "prof": 13,
+        "magnitud": 5.3,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.136",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.18,
+          -6.92
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/08/17",
+        "hora_utc": "13:29:31.46",
+        "latitud": -6.9155,
+        "longitud": -81.1833,
+        "prof": 30,
+        "magnitud": 4.5,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.137",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.69,
+          -14.35
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/08/17",
+        "hora_utc": "20:37:00.06",
+        "latitud": -14.3506,
+        "longitud": -76.6914,
+        "prof": 6,
+        "magnitud": 4.1,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.138",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.72,
+          -8.59
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/08/20",
+        "hora_utc": "01:16:21.25",
+        "latitud": -8.5876,
+        "longitud": -79.719,
+        "prof": 35,
+        "magnitud": 4.4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.139",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.91,
+          -10.78
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/08/20",
+        "hora_utc": "21:29:03.73",
+        "latitud": -10.7755,
+        "longitud": -74.9066,
+        "prof": 24,
+        "magnitud": 4.2,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.140",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3,
+          -16.33
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/08/24",
+        "hora_utc": "15:04:01.16",
+        "latitud": -16.3302,
+        "longitud": -73.3007,
+        "prof": 39,
+        "magnitud": 4.3,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.141",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.85,
+          -17.45
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/08/25",
+        "hora_utc": "05:43:43.21",
+        "latitud": -17.4479,
+        "longitud": -70.8466,
+        "prof": 13,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.142",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.23,
+          -17.32
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/08/28",
+        "hora_utc": "15:17:43.51",
+        "latitud": -17.3186,
+        "longitud": -71.2286,
+        "prof": 22,
+        "magnitud": 3.9,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.143",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.92,
+          -12.01
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/08/29",
+        "hora_utc": "11:47:40.56",
+        "latitud": -12.0057,
+        "longitud": -76.9182,
+        "prof": 78,
+        "magnitud": 3.7,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.144",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.75,
+          -15.89
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/09/01",
+        "hora_utc": "19:51:17.10",
+        "latitud": -15.8854,
+        "longitud": -71.7493,
+        "prof": 21,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.145",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.65,
+          -9.8
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/09/02",
+        "hora_utc": "02:44:39.35",
+        "latitud": -9.7988,
+        "longitud": -78.6521,
+        "prof": 30,
+        "magnitud": 4.1,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.146",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.57,
+          -12.09
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/09/02",
+        "hora_utc": "08:12:32.67",
+        "latitud": -12.0947,
+        "longitud": -75.5703,
+        "prof": 45,
+        "magnitud": 4.4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.147",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68,
+          -12.13
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/09/05",
+        "hora_utc": "00:51:54.02",
+        "latitud": -12.1266,
+        "longitud": -75.676,
+        "prof": 38,
+        "magnitud": 4.2,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.148",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6,
+          -16.69
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/09/09",
+        "hora_utc": "16:32:08.55",
+        "latitud": -16.6869,
+        "longitud": -71.6036,
+        "prof": 33,
+        "magnitud": 3.8,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.149",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.27,
+          -6.02
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/09/18",
+        "hora_utc": "10:25:59.54",
+        "latitud": -6.0225,
+        "longitud": -81.2676,
+        "prof": 42,
+        "magnitud": 4.3,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.150",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.23,
+          -15.86
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/09/20",
+        "hora_utc": "17:32:27.55",
+        "latitud": -15.8583,
+        "longitud": -73.233,
+        "prof": 55,
+        "magnitud": 4.5,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.151",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05,
+          -16.14
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/09/23",
+        "hora_utc": "02:54:13.58",
+        "latitud": -16.1432,
+        "longitud": -73.0453,
+        "prof": 65,
+        "magnitud": 4.2,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.152",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.85,
+          -12.46
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/09/24",
+        "hora_utc": "00:18:40.24",
+        "latitud": -12.4558,
+        "longitud": -76.8477,
+        "prof": 59,
+        "magnitud": 3.8,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.153",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.87,
+          -16.15
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/09/25",
+        "hora_utc": "16:42:39.65",
+        "latitud": -16.1531,
+        "longitud": -74.8669,
+        "prof": 31,
+        "magnitud": 5.7,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.154",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.71,
+          -16.13
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/09/26",
+        "hora_utc": "03:42:12.29",
+        "latitud": -16.1332,
+        "longitud": -74.7061,
+        "prof": 20,
+        "magnitud": 4.2,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.155",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.48,
+          -14.64
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/09/26",
+        "hora_utc": "16:16:31.51",
+        "latitud": -14.6442,
+        "longitud": -75.4772,
+        "prof": 62,
+        "magnitud": 4.3,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.156",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7,
+          -5.82
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/09/26",
+        "hora_utc": "17:45:17.51",
+        "latitud": -5.8242,
+        "longitud": -76.7023,
+        "prof": 38,
+        "magnitud": 4.7,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.157",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.88,
+          -16.82
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/09/28",
+        "hora_utc": "04:01:20.97",
+        "latitud": -16.8222,
+        "longitud": -71.8811,
+        "prof": 38,
+        "magnitud": 3.9,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.158",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.63,
+          -12.71
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/02",
+        "hora_utc": "04:03:29.50",
+        "latitud": -12.7052,
+        "longitud": -70.63,
+        "prof": 139,
+        "magnitud": 4.7,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.159",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58,
+          -14.76
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/04",
+        "hora_utc": "18:05:21.96",
+        "latitud": -14.7555,
+        "longitud": -75.577,
+        "prof": 37,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.160",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.09,
+          -14.28
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/05",
+        "hora_utc": "05:15:38.92",
+        "latitud": -14.2832,
+        "longitud": -76.0857,
+        "prof": 44,
+        "magnitud": 3.9,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.161",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.26,
+          -17.17
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/07",
+        "hora_utc": "11:04:57.68",
+        "latitud": -17.1726,
+        "longitud": -72.256,
+        "prof": 45,
+        "magnitud": 3.8,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.162",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.29,
+          -17.12
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/07",
+        "hora_utc": "17:00:53.43",
+        "latitud": -17.1231,
+        "longitud": -72.2882,
+        "prof": 52,
+        "magnitud": 4.1,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.163",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.12,
+          -14.58
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/08",
+        "hora_utc": "11:27:28.48",
+        "latitud": -14.5775,
+        "longitud": -76.118,
+        "prof": 37,
+        "magnitud": 4.4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.164",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.75,
+          -9.88
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/10",
+        "hora_utc": "02:15:40.87",
+        "latitud": -9.8848,
+        "longitud": -78.7531,
+        "prof": 45,
+        "magnitud": 4.6,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.165",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.31,
+          -12.46
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/11",
+        "hora_utc": "16:49:38.36",
+        "latitud": -12.4597,
+        "longitud": -77.3069,
+        "prof": 38,
+        "magnitud": 3.8,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.166",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6,
+          -15.8
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/15",
+        "hora_utc": "16:26:55.88",
+        "latitud": -15.8001,
+        "longitud": -74.6036,
+        "prof": 58,
+        "magnitud": 4.2,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.167",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7,
+          -17.07
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/16",
+        "hora_utc": "16:47:12.85",
+        "latitud": -17.0695,
+        "longitud": -71.7034,
+        "prof": 46,
+        "magnitud": 4.1,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.168",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2,
+          -12.3
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/17",
+        "hora_utc": "10:51:00.95",
+        "latitud": -12.3018,
+        "longitud": -77.2049,
+        "prof": 46,
+        "magnitud": 3.9,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.169",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03,
+          -12.5
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/18",
+        "hora_utc": "07:32:31.44",
+        "latitud": -12.4989,
+        "longitud": -77.0327,
+        "prof": 43,
+        "magnitud": 4.3,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.170",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8,
+          -12.34
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/18",
+        "hora_utc": "09:47:54.61",
+        "latitud": -12.3378,
+        "longitud": -76.8031,
+        "prof": 61,
+        "magnitud": 3.8,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.171",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.82,
+          -9.14
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/19",
+        "hora_utc": "00:04:31.21",
+        "latitud": -9.1386,
+        "longitud": -75.8189,
+        "prof": 15,
+        "magnitud": 4.1,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.172",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.07,
+          -14.92
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/19",
+        "hora_utc": "16:28:51.23",
+        "latitud": -14.9171,
+        "longitud": -76.0657,
+        "prof": 19,
+        "magnitud": 4.5,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.173",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.17,
+          -11.4
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/20",
+        "hora_utc": "01:16:16.84",
+        "latitud": -11.3959,
+        "longitud": -77.174,
+        "prof": 97,
+        "magnitud": 3.8,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.174",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.81,
+          -18.47
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/20",
+        "hora_utc": "21:51:35.12",
+        "latitud": -18.4732,
+        "longitud": -70.8063,
+        "prof": 37,
+        "magnitud": 4.5,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.175",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.12,
+          -13.56
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/21",
+        "hora_utc": "00:14:09.26",
+        "latitud": -13.5557,
+        "longitud": -76.1177,
+        "prof": 89,
+        "magnitud": 4.4,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.176",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.66,
+          -18.17
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/21",
+        "hora_utc": "00:47:09.69",
+        "latitud": -18.175,
+        "longitud": -69.6644,
+        "prof": 151,
+        "magnitud": 4.5,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.177",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.06,
+          -16.32
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/21",
+        "hora_utc": "04:13:43.19",
+        "latitud": -16.3204,
+        "longitud": -72.0581,
+        "prof": 17,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.178",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.78,
+          -15.91
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/27",
+        "hora_utc": "05:28:23.57",
+        "latitud": -15.912,
+        "longitud": -71.7771,
+        "prof": 21,
+        "magnitud": 4.2,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.179",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72,
+          -15.55
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/29",
+        "hora_utc": "12:51:04.39",
+        "latitud": -15.5535,
+        "longitud": -71.9986,
+        "prof": 142,
+        "magnitud": 5,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.180",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.92,
+          -12.32
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/29",
+        "hora_utc": "23:43:22.73",
+        "latitud": -12.3155,
+        "longitud": -76.9183,
+        "prof": 60,
+        "magnitud": 3.8,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.181",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.55,
+          -14.29
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/30",
+        "hora_utc": "05:43:36.84",
+        "latitud": -14.2877,
+        "longitud": -76.5531,
+        "prof": 21,
+        "magnitud": 4.2,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.182",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.83,
+          -16.93
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/10/30",
+        "hora_utc": "20:46:12.19",
+        "latitud": -16.9292,
+        "longitud": -71.8257,
+        "prof": 56,
+        "magnitud": 3.9,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.183",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.31,
+          -11.45
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/01",
+        "hora_utc": "16:36:31.17",
+        "latitud": -11.4469,
+        "longitud": -73.3063,
+        "prof": 26,
+        "magnitud": 4.1,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.184",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.33,
+          -16.71
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/01",
+        "hora_utc": "23:24:07.97",
+        "latitud": -16.7103,
+        "longitud": -72.3256,
+        "prof": 69,
+        "magnitud": 4.1,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.185",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.25,
+          -17.3
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/03",
+        "hora_utc": "21:27:18.71",
+        "latitud": -17.3046,
+        "longitud": -71.2492,
+        "prof": 25,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.186",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.53,
+          -9.05
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/05",
+        "hora_utc": "06:54:27.88",
+        "latitud": -9.0473,
+        "longitud": -75.5331,
+        "prof": 113,
+        "magnitud": 4.2,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.187",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.75,
+          -15.89
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/06",
+        "hora_utc": "06:11:08.18",
+        "latitud": -15.8895,
+        "longitud": -71.7471,
+        "prof": 22,
+        "magnitud": 3.8,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.188",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.89,
+          -16.66
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/09",
+        "hora_utc": "23:59:41.45",
+        "latitud": -16.6602,
+        "longitud": -71.8905,
+        "prof": 44,
+        "magnitud": 3.9,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.189",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.72,
+          -12.13
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/13",
+        "hora_utc": "10:29:57.39",
+        "latitud": -12.1303,
+        "longitud": -76.7237,
+        "prof": 89,
+        "magnitud": 3.7,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.190",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.71,
+          -8.99
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/14",
+        "hora_utc": "04:49:56.55",
+        "latitud": -8.9879,
+        "longitud": -78.7122,
+        "prof": 61,
+        "magnitud": 3.7,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.191",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.22,
+          -5.79
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/14",
+        "hora_utc": "15:02:47.34",
+        "latitud": -5.7926,
+        "longitud": -80.2229,
+        "prof": 60,
+        "magnitud": 5.1,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.192",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.48,
+          -15.92
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/17",
+        "hora_utc": "12:27:40.99",
+        "latitud": -15.92,
+        "longitud": -75.4844,
+        "prof": 23,
+        "magnitud": 4.9,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.193",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.96,
+          -14.63
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/17",
+        "hora_utc": "20:16:29.63",
+        "latitud": -14.6259,
+        "longitud": -75.9642,
+        "prof": 43,
+        "magnitud": 4.7,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.194",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2,
+          -5.99
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/19",
+        "hora_utc": "14:30:52.88",
+        "latitud": -5.9901,
+        "longitud": -80.2034,
+        "prof": 53,
+        "magnitud": 4.4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.195",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.98,
+          -10.69
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/20",
+        "hora_utc": "04:47:43.08",
+        "latitud": -10.6852,
+        "longitud": -77.9791,
+        "prof": 56,
+        "magnitud": 4.3,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.196",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.26,
+          -12.11
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/21",
+        "hora_utc": "04:36:25.03",
+        "latitud": -12.1147,
+        "longitud": -75.2607,
+        "prof": 120,
+        "magnitud": 4.4,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.197",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.99,
+          -16.55
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/21",
+        "hora_utc": "06:48:15.01",
+        "latitud": -16.5486,
+        "longitud": -71.9854,
+        "prof": 34,
+        "magnitud": 4.5,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.198",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3,
+          -11.85
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/22",
+        "hora_utc": "04:59:09.13",
+        "latitud": -11.8457,
+        "longitud": -77.2955,
+        "prof": 46,
+        "magnitud": 3.7,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.199",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9,
+          -16.48
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/24",
+        "hora_utc": "12:51:31.36",
+        "latitud": -16.478,
+        "longitud": -71.9012,
+        "prof": 41,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.200",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.39,
+          -3.43
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/25",
+        "hora_utc": "19:42:58.32",
+        "latitud": -3.4309,
+        "longitud": -80.3918,
+        "prof": 56,
+        "magnitud": 4.9,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.201",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.49,
+          -12.78
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/25",
+        "hora_utc": "20:06:54.85",
+        "latitud": -12.7775,
+        "longitud": -76.4871,
+        "prof": 62,
+        "magnitud": 4.7,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.202",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88,
+          -12.53
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/26",
+        "hora_utc": "08:41:23.56",
+        "latitud": -12.532,
+        "longitud": -76.8849,
+        "prof": 57,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.203",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.15,
+          -16.88
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/27",
+        "hora_utc": "03:55:48.07",
+        "latitud": -16.8844,
+        "longitud": -72.1528,
+        "prof": 31,
+        "magnitud": 3.5,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.204",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.86,
+          -8.12
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/11/27",
+        "hora_utc": "12:59:58.94",
+        "latitud": -8.1194,
+        "longitud": -79.8617,
+        "prof": 44,
+        "magnitud": 4.2,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.205",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.07,
+          -8.6
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/12/03",
+        "hora_utc": "17:17:20.33",
+        "latitud": -8.6012,
+        "longitud": -79.0724,
+        "prof": 51,
+        "magnitud": 4.1,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.206",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.62,
+          -9.92
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/12/04",
+        "hora_utc": "08:38:05.59",
+        "latitud": -9.9155,
+        "longitud": -75.6158,
+        "prof": 42,
+        "magnitud": 4.5,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.207",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4,
+          -8.35
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/12/12",
+        "hora_utc": "12:43:22.44",
+        "latitud": -8.3502,
+        "longitud": -76.3962,
+        "prof": 30,
+        "magnitud": 4.6,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.208",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.91,
+          -7.25
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/12/15",
+        "hora_utc": "12:55:14.08",
+        "latitud": -7.2494,
+        "longitud": -76.9061,
+        "prof": 122,
+        "magnitud": 5.1,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.209",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.96,
+          -13.48
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/12/16",
+        "hora_utc": "16:12:57.24",
+        "latitud": -13.4787,
+        "longitud": -71.9596,
+        "prof": 41,
+        "magnitud": 3.6,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.210",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.96,
+          -15.63
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/12/19",
+        "hora_utc": "17:35:24.95",
+        "latitud": -15.6289,
+        "longitud": -71.9635,
+        "prof": 129,
+        "magnitud": 4.3,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.211",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.05,
+          -13.22
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/12/19",
+        "hora_utc": "20:56:21.10",
+        "latitud": -13.2238,
+        "longitud": -75.0465,
+        "prof": 84,
+        "magnitud": 4.5,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.212",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.98,
+          -9.6
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/12/20",
+        "hora_utc": "12:14:43.64",
+        "latitud": -9.604,
+        "longitud": -78.9829,
+        "prof": 44,
+        "magnitud": 4.2,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.213",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.96,
+          -5.84
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/12/21",
+        "hora_utc": "04:36:32.48",
+        "latitud": -5.8372,
+        "longitud": -80.964,
+        "prof": 15,
+        "magnitud": 4.1,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.214",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.92,
+          -15.4
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/12/23",
+        "hora_utc": "06:03:07.85",
+        "latitud": -15.3953,
+        "longitud": -72.9167,
+        "prof": 44,
+        "magnitud": 4.2,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.215",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.36,
+          -16.88
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/12/27",
+        "hora_utc": "04:48:55.13",
+        "latitud": -16.8782,
+        "longitud": -72.3574,
+        "prof": 68,
+        "magnitud": 4.3,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.216",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.73,
+          -15.87
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/12/29",
+        "hora_utc": "07:04:53.02",
+        "latitud": -15.867,
+        "longitud": -71.7273,
+        "prof": 16,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.217",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.62,
+          -13.68
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/12/29",
+        "hora_utc": "08:03:46.34",
+        "latitud": -13.6838,
+        "longitud": -72.6224,
+        "prof": 76,
+        "magnitud": 4.3,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.218",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.35,
+          -13.41
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/12/30",
+        "hora_utc": "07:13:19.45",
+        "latitud": -13.4053,
+        "longitud": -72.3521,
+        "prof": 34,
+        "magnitud": 4.1,
+        "clasif": "Superficial"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.219",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73,
+          -11.51
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/12/31",
+        "hora_utc": "08:31:01.79",
+        "latitud": -11.5069,
+        "longitud": -73.0025,
+        "prof": 145,
+        "magnitud": 4.3,
+        "clasif": "Intermedio"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sis_igp_2013.220",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3,
+          -3.67
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "fecha": "2013/12/31",
+        "hora_utc": "08:42:31.07",
+        "latitud": -3.6657,
+        "longitud": -81.2984,
+        "prof": 25,
+        "magnitud": 4,
+        "clasif": "Superficial"
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  }
+}
